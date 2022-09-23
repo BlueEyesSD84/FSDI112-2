@@ -17,4 +17,4 @@ Steps to do commit to GitHub
 Steps to remove the venv/pychace files should .gitignore fail
 1. git rm -r venv
 2. git commit -m "removed venv files"
-3. git git push origin
+3. git push origin
