@@ -7,3 +7,14 @@ You'll have to create all of the corresponding views (classes), urlpatterns and 
 
 add a nav bar using bootstrap
 
+Steps to do commit to GitHub
+1. Git status
+2. Git Add -A
+3. Git commit -m "comment here"
+4. git push
+5. refresh github
+
+Steps to remove the venv/pychace files should .gitignore fail
+1. git rm -r venv
+2. git commit -m "removed venv files"
+3. git git push origin
