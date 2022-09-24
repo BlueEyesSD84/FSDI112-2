@@ -1,3 +1,25 @@
 h1 {
     color: red;
 }
+body{
+    background-image: url('/static/img/FS.png')
+}
+.aboutMe {
+    color:white
+}
+
+.homePG {
+    color:white;
+}
+
+.liServ {
+    color: white;
+    font-size: 20px;
+}
+.HP {
+    color: red;
+    font-weight: bold;
+}
+.form {
+    justify-content: left;
+}
