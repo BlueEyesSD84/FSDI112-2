@@ -23,3 +23,6 @@ body{
 .form {
     justify-content: left;
 }
+#id_title, #id_subtitle, #id_body {
+    color: white;
+}
